@@ -3,3 +3,4 @@
 然後在app裡面的MainActivity裡面，大致參照先前lab10結果來創造一個計算機，(xml也是用相同的方式修改)，
 保留其他原先的code，並在jumpToLayout()裡面原先印出結果的地方多使用一個字串ToSend儲存需要顯示在server那邊的字串，
 最後在Thread()裡面，用ToSend取代原先印出的字。
+測試
